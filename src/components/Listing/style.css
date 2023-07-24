@@ -19,7 +19,8 @@
 }
 
 .df-list-card h2 {
-  font-size: 10px;
+  font-size: 12px;
+  font-weight: 400;
   color: var(--color-font-secondary);
 }
 
