@@ -5,7 +5,7 @@
     height: 40px;
     border-radius: 5px;
     border: none;
-    background-color: var(---color-bg-button);
+    background-color: var(--color-bg-button);
     font-size: 16px;
     cursor: pointer;
 }

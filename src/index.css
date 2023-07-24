@@ -5,9 +5,12 @@
   --color-bg-secondary: #FFF;
   --color-bg-header: #55BC04;
   --color-font-primary: #FFF;
+  --color-font-secondary: #6F6F6F;
+  --color-font-tertiary: #55BC04;
   --color-font-input: #C2C2C2;
   --color-border-input: #C2C2C2;
-  ---color-bg-button: #55BC04;
+  --color-border-card: #55BC04;
+  --color-bg-button: #55BC04;
 }
 
 * {
