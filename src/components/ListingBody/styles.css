@@ -1,0 +1,11 @@
+.df-list-container {
+  width: 100%;
+  max-width: 960px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: var(--color-bg-secondary);
+  border-radius: 5px;
+}
