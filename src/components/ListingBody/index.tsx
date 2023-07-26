@@ -26,8 +26,6 @@ export default function ListingBody() {
       queryParams.maxPrice
     );
     setProducts(onFilter);
-    console.log("valor do queryparams");
-    console.log(queryParams);
     setContextHeaderCount(onFilter.length);
   }, [queryParams]);
 

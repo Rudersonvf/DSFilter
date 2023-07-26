@@ -23,8 +23,6 @@ export default function CardFilter({ onFilter }: Props) {
   function handleSubmit(event: any) {
     event.preventDefault();
     setFormData(formData);
-    console.log("saida do formulario");
-    console.log(formData);
     onFilter(formData.minPrice, formData.maxPrice);
   }
 
